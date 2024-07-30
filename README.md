@@ -42,32 +42,6 @@ To get started with the project locally, follow these steps:
 
    This will start the application on [http://localhost:3000](http://localhost:3000).
 
-## Project Structure
-
-Here is the structure of the project:
-
-TextUtils/
-│
-├── public/
-│ ├── index.html # Main HTML file
-│ ├── favicon.ico # Favicon for the application
-│ └── assets/ # Folder for static assets like images and fonts
-│
-├── src/
-│ ├── components/ # React components used in the application
-│ │ ├── Navbar.js # Example component
-│ │ ├── TextForm.js # Example component
-│ │ └── ...
-│ ├── App.js # Main application component
-│ ├── index.js # Entry point for the React application
-│ └── styles.css # Global styles
-│
-├── .gitignore # Git ignore file
-├── package.json # Project metadata and dependencies
-├── README.md # Project documentation
-└── LICENSE # License file
-
-
 ## Usage
 
 Once the development server is running, open your browser and go to [http://localhost:3000](http://localhost:3000). Use the provided input fields and buttons to manipulate and analyze your text.
